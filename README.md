@@ -9,8 +9,8 @@ Für das 20-jährige Jubiläum von WordPress versuche ich hier mal mit Hilfe der
 
 ## 26./27. Januar 2008
 WordCamp in Hamburg organisiert von Valentin Tomaschek und Cem Basman
-https://www.flickr.com/groups/wordcamp08hh/
-https://bueltge.de/wordcamp-08/509/
+* https://www.flickr.com/groups/wordcamp08hh/
+* https://bueltge.de/wordcamp-08/509/
 
 ## Zwei Sprachpakete im Umlauf
 Die Releases werden manuell anhand einer Build-Nummer erstellt. Die Sprachdatei kommt von WordPress Deutschland und ist die informelle/Du-Version. Über de.wordpress.org wird eine andere Version zum manuellen Herunterladen verteilt, welche aber eine formale/Sie-Version ist.
@@ -29,15 +29,15 @@ Im Nachgang vom Camp in Köln werden viele Meetups gegründet. Vor allem Potsdam
 
 ## WP Camps 2012+2013
 Weil die "Guidelines" für die Organisatoren vom Meetup Potsdam zu restriktiv waren, wird anstatt ein "offizielles" WordCamp, ein WP Camp organisiert (Nur noch über WayBack-Machine verfügbar).
-https://web.archive.org/web/20121001092905/http://wpcamp.de/
-https://web.archive.org/web/20131110110218/http://wpcamp.de/
+* https://web.archive.org/web/20121001092905/http://wpcamp.de/
+* https://web.archive.org/web/20131110110218/http://wpcamp.de/
 
 Readktion auf das WP Camp: https://wprealm.com/when-is-a-wordcamp-a-wp-camp/
 
 ## WordCamp Europe in Leider (Netherlands) 2013
 Erste wichtige Kontaktaufnahmen der deutschsprachigen Community mit dem Rest von Europa
 
-## Austausch der Übersetzer über einen P2-Blog auf Wordpress.com (Oktober 2013 - Mai 2016)
+## Austausch der Übersetzer über einen P2-Blog auf WordPress.com (Oktober 2013 - Mai 2016)
 https://teamwpde.wordpress.com/2013/10/08/willkommen-im-team/
 
 ## Caspars Brief an die Community
