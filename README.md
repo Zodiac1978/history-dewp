@@ -5,7 +5,7 @@ Für das 20-jährige Jubiläum von WordPress versuche ich hier mal mit Hilfe der
 
 ## wordpress.de wird registriert (2004!)
 
-## wordpress.com wird geründet (2005!)
+## wordpress.com wird gegründet (2005!)
 
 ## 26./27. Januar 2008
 WordCamp in Hamburg organisiert von Valentin Tomaschek und Cem Basman
