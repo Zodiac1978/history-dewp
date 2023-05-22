@@ -37,6 +37,9 @@ Readktion auf das WP Camp: https://wprealm.com/when-is-a-wordcamp-a-wp-camp/
 ## WordCamp Europe in Leider (Netherlands) 2013
 Erste wichtige Kontaktaufnahmen der deutschsprachigen Community mit dem Rest von Europa
 
+## Diskussionen zu Artikel vs. Beitrag (WP 3.6 // Einführung CPTs)
+[https://forum.wpde.org/threads/108429/](https://forum.wpde.org/threads/wp-3-6-beitraege-wieder-artikel-sein-lassen.117482/#post-511270)
+
 ## Austausch der Übersetzer über einen P2-Blog auf WordPress.com (Oktober 2013 - Mai 2016)
 https://teamwpde.wordpress.com/2013/10/08/willkommen-im-team/
 
@@ -64,6 +67,9 @@ https://de.wordpress.org/2015/03/meetups-polyglots-redaktion-und-mehr-die-deutsc
 
 ## Community Summit und erstes WordCamp US (2015)
 Torsten reist als deutscher Vertreter (Polyglots/Support-Team) zum Summit
+
+## Übersetzung vom Zeitzonen von "UTC +2" auf "Europe/Berlin" geändert (WP 4.1 // 2015)
+Daher keine manuelle Umstellung mehr nötig, mit dem Risiko, dass Server das nicht sauber konfiguriertt haben
 
 ## WordCamps in Deutschland
 Berlin 2015, Köln 2015, Nürnberg 2016, Frankfurt 2016, Cologne 2017, Berlin 2017, Würzburg 2018, Stuttgart 2019, Düsseldorf 2019, Osnabrück 2019
