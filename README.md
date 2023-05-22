@@ -49,9 +49,12 @@ Histrorische Keynote von Zé: https://speakerdeck.com/zedejose/wordcamp-hamburg-
 > I would say Germany is a beautiful example. Germany is a very close knit community, one of the strongest running and one of the oldest, other than the US. Earlier this year WordCamp Hamburg had many foreigners in attendance. That didn’t happen in Germany in the past. That’s the big difference. Now they’re looking outside.
 https://wptavern.com/wordpress-beyond-boundaries-a-recap-of-wordcamp-europe-2014
 
-Reboot von https://de.wordpress.org beim Contributor Day und Ablöse von wordpress-deutschland.org als zentraler Ort für WordPress-Download und Sprachdatei im Jahr danach.
-https://de.wordpress.org/2014/06/hallo-welt/
-https://de.wordpress.org/2015/12/wpde-kuendigt-umbau-an/
+Reboot von https://de.wordpress.org beim ersten Contributor Day in Deutschland und Ablöse von wordpress-deutschland.org als zentraler Ort für WordPress-Download und Sprachdatei im Jahr danach.
+* https://de.wordpress.org/2014/06/hallo-welt/
+* https://de.wordpress.org/2015/12/wpde-kuendigt-umbau-an/
+
+> http://de.wordpress.org  reboots aaaand of course looks immediately better organised than 99% of all other rosetta sites. And pretty, too :)
+* https://web.archive.org/web/20210407071101/https://twitter.com/zedejose/status/479210176319619073
 
 ## Einführung Teamblog, um auch Nicht-Slack-Mitgliedern die Ergebnisse/Diskussionen zu zeigen (seit 2014)
 https://de.wordpress.org/team/
@@ -63,7 +66,7 @@ https://de.wordpress.org/2015/03/meetups-polyglots-redaktion-und-mehr-die-deutsc
 Torsten reist als deutscher Vertreter (Polyglots/Support-Team) zum Summit
 
 ## WordCamps in Deutschland
-Berlin 2015, Köln 2015, Nürnberg 2016, Frankfurt 2016, Cologne 2017, Berlin 2017, Würzburg 2018, Stuttgart 2019, Osnabrück 2019
+Berlin 2015, Köln 2015, Nürnberg 2016, Frankfurt 2016, Cologne 2017, Berlin 2017, Würzburg 2018, Stuttgart 2019, Düsseldorf 2019, Osnabrück 2019
 
 ## WordCamp Europe 2019 in Berlin
 Bernhard Kau ist Local Lead
