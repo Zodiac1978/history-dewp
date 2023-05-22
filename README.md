@@ -71,6 +71,9 @@ Torsten reist als deutscher Vertreter (Polyglots/Support-Team) zum Summit
 ## Übersetzung vom Zeitzonen von "UTC +2" auf "Europe/Berlin" geändert (WP 4.1 // 2015)
 Daher keine manuelle Umstellung mehr nötig, mit dem Risiko, dass Server das nicht sauber konfiguriertt haben
 
+## WordPress unterstützt offizell eine formale Variante
+https://core.trac.wordpress.org/ticket/28303 (Dank Dominik Schilling)
+
 ## WordCamps in Deutschland
 Berlin 2015, Köln 2015, Nürnberg 2016, Frankfurt 2016, Cologne 2017, Berlin 2017, Würzburg 2018, Stuttgart 2019, Düsseldorf 2019, Osnabrück 2019
 
