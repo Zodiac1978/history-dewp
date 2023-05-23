@@ -19,8 +19,8 @@ Die Releases werden manuell anhand einer Build-Nummer erstellt. Die Sprachdatei 
 Matt Mullenweg fordert die Domain, wegen Markenrechten zurück, die der deutschen Community eigentlich versprochen wurde
 
 ## WordCamp 2009 in Jena
-https://bueltge.de/wordcamp-2009/776/
 Organisiert von WordPress Deutschland
+https://bueltge.de/wordcamp-2009/776/
 
 ## WordCamp 2010 in Berlin
 Organisiert von WordPress Deutschland
