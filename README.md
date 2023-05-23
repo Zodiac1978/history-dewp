@@ -38,7 +38,7 @@ Weil die "Guidelines" für die Organisatoren vom Meetup Potsdam zu restriktiv wa
 
 Reaktion auf das WP Camp: https://wprealm.com/when-is-a-wordcamp-a-wp-camp/
 
-## WordCamp Europe in Leider (Netherlands) 2013
+## WordCamp Europe in Leiden (Netherlands) 2013
 Erste wichtige Kontaktaufnahmen der deutschsprachigen Community mit dem Rest von Europa
 
 ## Diskussionen zu Artikel vs. Beitrag (WP 3.6 // Einführung CPTs)
