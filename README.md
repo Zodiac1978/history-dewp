@@ -82,7 +82,7 @@ Daher keine manuelle Umstellung mehr nötig, mit dem Risiko, dass Server das nic
 ## WordPress unterstützt offiziell eine formale Variante
 https://core.trac.wordpress.org/ticket/28303 (Dank Dominik Schilling)
 
-## Mehrere deutsche Vertreter beim Community Summit 2017
+## Mehrere deutschsprachige Vertreter beim Community Summit 2017
 Caspar Hübinger (Polyglots), Dominik Schilling (Polyglots), Nick Weisser (Polyglots), Sonja Leix (Design), Maja Benke (Community)
 https://de.wordpress.org/team/2017/05/23/community-summit-2017/
 
