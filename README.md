@@ -32,7 +32,7 @@ Weil die "Guidelines" für die Organisatoren vom Meetup Potsdam zu restriktiv wa
 * https://web.archive.org/web/20121001092905/http://wpcamp.de/
 * https://web.archive.org/web/20131110110218/http://wpcamp.de/
 
-Readktion auf das WP Camp: https://wprealm.com/when-is-a-wordcamp-a-wp-camp/
+Reaktion auf das WP Camp: https://wprealm.com/when-is-a-wordcamp-a-wp-camp/
 
 ## WordCamp Europe in Leider (Netherlands) 2013
 Erste wichtige Kontaktaufnahmen der deutschsprachigen Community mit dem Rest von Europa
@@ -47,7 +47,7 @@ https://teamwpde.wordpress.com/2013/10/08/willkommen-im-team/
 https://glueckpress.com/5472/offener-brief-wordpress-community-deutschland/
 
 ## Das erste "offizielle" WordCamp in Hamburg 2014
-Histrorische Keynote von Zé: https://speakerdeck.com/zedejose/wordcamp-hamburg-2014
+Historische Keynote von Zé: https://speakerdeck.com/zedejose/wordcamp-hamburg-2014
 
 > I would say Germany is a beautiful example. Germany is a very close knit community, one of the strongest running and one of the oldest, other than the US. Earlier this year WordCamp Hamburg had many foreigners in attendance. That didn’t happen in Germany in the past. That’s the big difference. Now they’re looking outside.
 https://wptavern.com/wordpress-beyond-boundaries-a-recap-of-wordcamp-europe-2014
@@ -69,9 +69,9 @@ https://de.wordpress.org/2015/03/meetups-polyglots-redaktion-und-mehr-die-deutsc
 Torsten reist als deutscher Vertreter (Polyglots/Support-Team) zum Summit
 
 ## Übersetzung vom Zeitzonen von "UTC +2" auf "Europe/Berlin" geändert (WP 4.1 // 2015)
-Daher keine manuelle Umstellung mehr nötig, mit dem Risiko, dass Server das nicht sauber konfiguriertt haben
+Daher keine manuelle Umstellung mehr nötig, mit dem Risiko, dass Server das nicht sauber konfiguriert haben
 
-## WordPress unterstützt offizell eine formale Variante
+## WordPress unterstützt offiziell eine formale Variante
 https://core.trac.wordpress.org/ticket/28303 (Dank Dominik Schilling)
 
 ## WordCamps in Deutschland
