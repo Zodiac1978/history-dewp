@@ -63,6 +63,10 @@ Reboot von https://de.wordpress.org beim ersten Contributor Day in Deutschland u
 > http://de.wordpress.org  reboots aaaand of course looks immediately better organised than 99% of all other rosetta sites. And pretty, too :)
 * https://web.archive.org/web/20210407071101/https://twitter.com/zedejose/status/479210176319619073
 
+## Birgit reist als deutsche Vertreterin zum Community Summit
+In San Francisco (dem letzten jährlichen Hauptevent bevor es zu WordCamp US wurde)
+* https://sf.wordcamp.org/2014/community-summit-overview/community-summit-attendees/
+
 ## Einführung Teamblog, um auch Nicht-Slack-Mitgliedern die Ergebnisse/Diskussionen zu zeigen (seit 2014)
 https://de.wordpress.org/team/
 
@@ -77,6 +81,10 @@ Daher keine manuelle Umstellung mehr nötig, mit dem Risiko, dass Server das nic
 
 ## WordPress unterstützt offiziell eine formale Variante
 https://core.trac.wordpress.org/ticket/28303 (Dank Dominik Schilling)
+
+## Mehrere deutsche Vertreter beim Community Summit 2017
+Caspar Hübinger (Polyglots), Dominik Schilling (Polyglots), Nick Weisser (Polyglots), Sonja Leix (Design), Maja Benke (Community)
+https://de.wordpress.org/team/2017/05/23/community-summit-2017/
 
 ## WordCamps in Deutschland (2015-2019)
 Köln 2015, Berlin 2015, Nürnberg 2016, Frankfurt 2016, Köln 2016, Berlin 2017, Köln 2017, WordCamp Retreat Soltau 2018, Würzburg 2018, Köln 2018, Osnabrück 2019, Stuttgart 2019, Düsseldorf 2019
