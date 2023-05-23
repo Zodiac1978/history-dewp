@@ -20,7 +20,7 @@ Matt Mullenweg fordert die Domain, wegen Markenrechten zurück, die der deutsche
 
 ## WordCamp 2009 in Jena
 Organisiert von WordPress Deutschland
-https://bueltge.de/wordcamp-2009/776/
+* https://bueltge.de/wordcamp-2009/776/
 
 ## WordCamp 2010 in Berlin
 Organisiert von WordPress Deutschland
