@@ -78,15 +78,19 @@ Daher keine manuelle Umstellung mehr nötig, mit dem Risiko, dass Server das nic
 ## WordPress unterstützt offiziell eine formale Variante
 https://core.trac.wordpress.org/ticket/28303 (Dank Dominik Schilling)
 
-## WordCamps in Deutschland
-Berlin 2015, Köln 2015, Nürnberg 2016, Frankfurt 2016, Cologne 2017, Berlin 2017, Würzburg 2018, Stuttgart 2019, Düsseldorf 2019, Osnabrück 2019
+## WordCamps in Deutschland (2015-2019)
+Köln 2015, Berlin 2015, Nürnberg 2016, Frankfurt 2016, Köln 2016, Berlin 2017, Köln 2017, WordCamp Retreat Soltau 2018, Würzburg 2018, Köln 2018, Osnabrück 2019, Stuttgart 2019, Düsseldorf 2019
+https://central.wordcamp.org/schedule/past-wordcamps/
 
 ## WordCamp Europe 2019 in Berlin
 Bernhard Kau ist Local Lead
 
-## WordCamp Deutschland
+## Überlegungen zu einem WordCamp Deutschland (2020)
 https://jessicalyschik.de/wie-die-deutsche-wordpress-community-ihre-wordcamps-zerstort-und-wie-wir-sie-vielleicht-retten-konnen/
 
+## Pandemie
+WordCamps finden nicht statt. Viele Meetups schlafen ein.
 
+## Reboot der Meetups und WordPress Deutschland wird immer konkreter 
 
 ## wordpress-deutschland.org wird zu wpde.org (wann genau?)
