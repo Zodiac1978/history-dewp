@@ -19,6 +19,7 @@ In 2.3 (September 2007) hat WPD das Plugin LinkLift mit ausgeliefert, Daraufhin 
 * https://web.archive.org/web/20071011014905/http://www.regularimpressions.net/gesellschaft/lets-get-this-party-started/
 * https://forum.wpde.org/threads/zu-den-letzten-tagen.25584/
 * https://web.archive.org/web/20120708032351/https://blog.wpde.org/2007/10/01/aenderung-der-de-edition.html
+* https://web.archive.org/web/20151225080350/http://blog.wpde.org/2008/12/12/sprachdateien-wirrwarr.html
 
 ## Sie-Version
 Seit Herbst 2008 gibt es auch eine Sprachdatei in der formellen ”Sie”-Form über WPD
