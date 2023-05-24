@@ -11,11 +11,6 @@ Seit Januar 2005 deutsche Sprachdatei über WPD
 
 ## wordpress.com wird gegründet (2005!)
 
-## 26./27. Januar 2008
-WordCamp in Hamburg organisiert von Valentin Tomaschek und Cem Basman
-* https://www.flickr.com/groups/wordcamp08hh/
-* https://bueltge.de/wordcamp-08/509/
-
 ## wordpress.de wird zu wordpress-deutschland.org
 Ein großer Einschnitt findet im Dezember 2006 statt - Automattic möchte die Domain wordpress.de haben und diese für das eigene Bloghosting nutzen. Wir reagieren und ab dem 18. Dezember des Jahres ist die neue Domain wordpress-deutschland.org die Anlaufstelle für deutschsprachige WordPress Nutzer.
 
@@ -28,10 +23,13 @@ In 2.3 (September 2007) hat WPD das Plugin LinkLift mit ausgeliefert, Daraufhin 
 ## Sie-Version
 Seit Herbst 2008 gibt es auch eine Sprachdatei in der formellen ”Sie”-Form über WPD
 
-Ein großer Einschnitt findet im Dezember 2006 statt - Automattic möchte die Domain wordpress.de haben und diese für das eigene Bloghosting nutzen. Wir reagieren und ab dem 18. Dezember des Jahres ist die neue Domain wordpress-deutschland.org die Anlaufstelle für deutschsprachige WordPress Nutzer.
-
 ## IRC #wordpress-deutschland
 Einige Nutzer suchen einen direkten und schnellen Austausch. Dies veranlasste WPD den IRC-Channel #wordpress-deutschland im FreeNode-Netzwerk für WordPress-User zu eröffnen. Seit dem Februar 2007.
+
+## 26./27. Januar 2008
+WordCamp in Hamburg organisiert von Valentin Tomaschek und Cem Basman
+* https://www.flickr.com/groups/wordcamp08hh/
+* https://bueltge.de/wordcamp-08/509/
 
 ## WPD wird von Inpsyde GmbH geführt
 Ab Januar 2009 wird WPD nicht mehr als Einzelunternehmen geführt werden; WPD wird ab nun von der Inpsyde GmbH geführt. 
