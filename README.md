@@ -7,7 +7,7 @@ Für das 20-jährige Jubiläum von WordPress versuche ich hier mal mit Hilfe der
 4. Juni 2004 startete WordPress Deutschland (WPD) auf wordpress.de
 * https://web.archive.org/web/20081202090527/http://blog.wordpress-deutschland.org/2008/11/24/wordress-deutschland-veraendert-sich.html
 
-Seit Januar 2005 deutsche Sprachtei über WPD
+Seit Januar 2005 deutsche Sprachdatei über WPD
 
 ## wordpress.com wird gegründet (2005!)
 
